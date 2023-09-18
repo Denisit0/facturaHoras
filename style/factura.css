@@ -1,0 +1,10 @@
+.crear_factura{
+    width: 12vw;
+    height: 6vh;
+}
+
+#generar_pdf{
+    width: 25%;
+    height: 15%;
+    margin-top: 20px;
+}

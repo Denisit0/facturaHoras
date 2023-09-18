@@ -1,0 +1,35 @@
+.container-aside{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+aside{
+  flex-basis: 15%;
+  flex-grow: 0;
+  width: 100%;
+}
+
+.content{
+    display: flex;
+    width: 88%;
+    float: right;
+}
+
+.nav-logo{
+    width: 12%;
+    height: 100%;
+    background-color: rgba(203, 208, 208, 0.374);
+    border-radius: 9%;
+}
+
+.btn{
+    height: 55px;
+    width: 115px;
+    font-size: 13px;
+}
+
+.main-btn{
+    font-size: 20px;
+    background-color: rgba(66, 198, 198, 0.111);
+}
+
